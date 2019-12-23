@@ -1,1 +1,4 @@
 # PSD-to-HTML5
+This is a project from PSD to Web.
+It is built using Html5, Css3, JavaScript and jQuery.
+It is fully responsive in all devices.
