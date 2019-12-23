@@ -10,3 +10,9 @@
 body {
     font-family: 'HelveticaNeue-Thin';
 }
+.logo {
+    float: left;
+}
+.nav {
+    float: right;
+}
