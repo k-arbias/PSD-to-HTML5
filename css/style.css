@@ -221,3 +221,30 @@ footer p {
     font-size: 11px;
     margin-top: 5px;
 }
+/* Copyright */
+.copyright .container {
+    padding: 30px;
+}
+.copyright {
+    background: #d7dedc;
+   
+}
+.inline {
+    display: inline-block;
+    font-size: 20px;
+    vertical-align: middle;
+}
+.copy,
+.filip {
+    margin-right: 40px;
+}
+.fb,
+.db {
+    margin-right: 40px;
+}
+.copy:after, 
+.filip:after {
+    content: "";
+    border: 1px solid #555555;
+    margin-left: 35px;
+}
